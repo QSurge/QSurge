@@ -1,13 +1,15 @@
 # Getting Started with Calendar Component
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## This is a Calendar Component which takes date as a input prop and renders the calendar as specified. It has been setup with a static date in App.tsx 
+
 ## Available Scripts
 
 In the project directory, you can run:
 
 ### `npm install`
 
-Downloads all the sepcified packages in Pacakge.json.\
+Downloads all the sepcified packages in Pacakge.json.
 
 ### `npm start`
 
