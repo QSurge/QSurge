@@ -1,5 +1,5 @@
 import React from 'react';
-
+import './Calendar.css'
 interface CalendarProps {
   date: Date;
 }
